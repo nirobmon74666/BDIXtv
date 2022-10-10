@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 ,PTV 
+http://10.100.100.140:8081/dugdugi/ptv/playlist.m3u8
+#EXTINF:-2 ,Gazi Tv
+http://10.100.100.140:8081/dugdugi/gazi/playlist.m3u8
+#EXTINF:-1 ,Star Sports -1
+http://10.100.100.140:8081/dugdugi/starsports1/playlist.m3u8
