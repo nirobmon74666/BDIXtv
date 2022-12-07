@@ -3,7 +3,7 @@
 http://10.100.100.140:8081/dugdugi/ptv/playlist.m3u8
 #EXTINF:-2 ,Gazi Tv
 http://10.100.100.140:8081/dugdugi/gazi/playlist.m3u8
-#EXTINF:-1 ,Star Sports -1
-http://10.100.100.140:8081/dugdugi/starsports1/playlist.m3u8
+#EXTINF:-1 ,Channel 9
+http://10.100.100.140:8081/dugdugi/channel9/playlist.m3u8
 #EXTINF:-1 ,Toffee Paid
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
